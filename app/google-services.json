@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "725902547228",
+    "project_id": "namma-railu-buddy-60853",
+    "storage_bucket": "namma-railu-buddy-60853.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725902547228:android:cfd2f914a39a5f7abe82d9",
+        "android_client_info": {
+          "package_name": "com.example.namma_railu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiHvIz8yowTll923bkmnxMr05z48xOoQI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
